@@ -1,6 +1,8 @@
 ## Data Analysis Project
 
-# Flight Price Prediction Determining Optimal Timing for Purchasing Plane Tickets
+---
+
+## Flight Price Prediction Determining Optimal Timing for Purchasing Plane Tickets
 
 ### Research Question
 > When is the best time to purchase plane tickets for optimal pricing?
